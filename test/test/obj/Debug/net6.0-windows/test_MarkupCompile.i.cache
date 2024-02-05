@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Sljusar_4335\test\test\App.xaml
-21940794329
+31901276597
 
-61720426460
+7-530349913
 194-1325968647
-MainWindow.xaml;Window1.xaml;
+MainWindow.xaml;UserControl1.xaml;Window1.xaml;
 
 True
 
